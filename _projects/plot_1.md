@@ -28,6 +28,6 @@ In this visualization, we are looking at how much total square footage is being 
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="Python Notebook" %}
+{% include elements/button.html link="https://github.com/NateLee1494/natelee1494.github.io/blob/master/python_notebooks/HW%205%20Workbook.ipynb" text="Python Notebook" %}
 </div>
 

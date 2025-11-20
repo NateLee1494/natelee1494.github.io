@@ -29,6 +29,6 @@ For the interactivity, I had it so that the user can select the data of a certai
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="Python Notebook" %}
+{% include elements/button.html link="https://github.com/NateLee1494/natelee1494.github.io/blob/master/python_notebooks/HW%205%20Workbook.ipynb" text="Python Notebook" %}
 </div>
 
